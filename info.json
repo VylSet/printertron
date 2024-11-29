@@ -1,0 +1,8 @@
+{
+    "name": "printertron",
+    "version": "0.0.1",
+    "title": "Printertron - an alternative quickstart mod",
+    "author": "Vyl",
+    "description": "A Spidertron that 3D Prints. An alternative quickstart mod to quickly print early game items and structures without construction bots or nanobots. Insert filament into a printertron to get started.",
+    "factorio_version": "2.0"
+  }
