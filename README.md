@@ -11,10 +11,10 @@ To get started, build a printertron and load it with filament.
 * Somewhat UPS optimized a little bit
 wawd
 ## Construct nearby structures
-![Item printing](https://github.com/VylSet/samples/blob/main/train-loader/auto-placement-checks.gif?raw=true "item printing")
+![Item printing](https://github.com/VylSet/samples/blob/main/spider-printer/printing.gif?raw=true "item printing")
 
 ## Deconstruct nearby structures
-![Deconstruction](https://raw.githubusercontent.com/VylSet/samples/refs/heads/main/train-loader/toggle.gif "deconstruction")
+![Deconstruction](https://github.com/VylSet/samples/blob/main/spider-printer/destroying.gif?raw=true "deconstruction")
 
 ## Craft filament
 ![Crafting filament](https://assets-mod.factorio.com/assets/5e38304245ccfb36350a1c59ead3cd6b3bf10a9a.png "Crafting Filament")
