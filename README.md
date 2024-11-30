@@ -6,8 +6,8 @@ Need support or help? Have suggestions? click the button to join
 To get started, build a printertron and load it with filament.
 
 ## Features
-* Unloader and loader that are the same item 
-* Automatic placement via train stops 
+* Construct items using filament
+* Deconstruct items (if they weren't printable items they'll get returned to your inventory)
 * Somewhat UPS optimized a little bit
 wawd
 ## Construct nearby structures
@@ -16,8 +16,12 @@ wawd
 ## Deconstruct nearby structures
 ![Deconstruction](https://github.com/VylSet/samples/blob/main/spider-printer/destroying.gif?raw=true "deconstruction")
 
-## Craft filament
-![Crafting filament](https://assets-mod.factorio.com/assets/5e38304245ccfb36350a1c59ead3cd6b3bf10a9a.png "Crafting Filament")
+## Filament tiers
+tier 1 filament printables: stone furnace, electric inserter, burner inserter, long haded inserter, transport belt, underground belt, splitter, pipe, small electric pole, assembling machine 1, burner mining drill, lab, offshore pump, rail signal, straight rail
+
+tier 2 filament printables: fast inserter, fast transport belt, fast underground belt, fast splitter, curved rails, medium and large electric poles, assembling machine 2, electric mining drill, oil refinery, chemical plant, rail ramp, rail support, train stop, pumpjack
+
+I avoided anything directly related to power generation or combat (like turrets and turbines) for balance reasons
 
 
 ## coming soon
